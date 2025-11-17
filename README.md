@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="amazonwebservices logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="10" />
