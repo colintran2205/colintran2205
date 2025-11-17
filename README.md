@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Colin<br>- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning AWS, Kubernetes, microservices, system design<br>- 💬 Ask me about Go, Docker, AWS</p>
+<p align="left">I'm Colin<br>- 🔭 I’m working as Cloud Engineer<br>- 📚 I'm currently learning GCP, Kubernetes, microservices, system design<br>- 💬 Ask me about GCP, Google Workspace, Go</p>
 
 ###
 
