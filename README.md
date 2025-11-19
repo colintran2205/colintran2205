@@ -32,12 +32,23 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Skills</h3>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,aws&theme=light" height="30" alt="skills logos"  />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,linux,docker,kubernetes,dotnet,go,bash,py,ts,terraform,grafana,prometheus,kafka,nginx&theme=light" height="30" alt="skills logos"  />
+  <img width="10" />
+</div>
+
+###
+
+<h3 align="left">🛠 Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,workers,visualstudio,vscode,git,github,githubactions,md,obsidian&theme=light" height="30" alt="skills logos"  />
   <img width="10" />
 </div>
 
