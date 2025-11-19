@@ -36,7 +36,7 @@
 
 ###
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,dotnet,py,django,fastapi,ts,nest,next,react&theme=light" alt="skills logos" height="40"  />
   </a>
@@ -48,9 +48,9 @@
 
 ###
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash,nginx,terraform,redis,grafana,prometheus,mongo,postgres&theme=light" alt="skills logos" height="40"  />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash,nginx,terraform,redis,grafana,prometheus,mongo,postgres,elasticsearch,kafka&theme=light" alt="skills logos" height="40"  />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
 ###
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,workers,visualstudio,vscode,git,github,githubactions,md,obsidian,twitter,discord,sentry&theme=light" height="40" alt="skills logos"  />
   </a>
