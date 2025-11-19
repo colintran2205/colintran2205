@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,linux,docker,kubernetes,dotnet,go,bash,py,ts,terraform,grafana,prometheus,kafka,nginx&theme=light" height="30" alt="skills logos"  />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,linux,docker,kubernetes,dotnet,go,bash,py,ts,terraform,grafana,prometheus,kafka,nginx,redis,postgres,mysql&theme=light" height="30" alt="skills logos"  />
   <img width="10" />
 </div>
 
@@ -48,7 +48,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,workers,visualstudio,vscode,git,github,githubactions,md,obsidian&theme=light" height="30" alt="skills logos"  />
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,workers,visualstudio,vscode,git,github,githubactions,md,obsidian,twitter,discord,sentry&theme=light" height="30" alt="skills logos"  />
   <img width="10" />
 </div>
 
