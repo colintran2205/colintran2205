@@ -37,9 +37,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="logo"/>
-  <img src="https://cdn.simpleicons.org/gin/008ECF" height="30" alt="logo"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="logo"/>
+  <img src="https://cdn.simpleicons.org/go" height="30" alt="logo"/>
+  <img src="https://cdn.simpleicons.org/gin" height="30" alt="logo"/>
+  <img src="https://cdn.simpleicons.org/python" height="30" alt="logo"/>
   
 </div>
 
