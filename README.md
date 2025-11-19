@@ -36,16 +36,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="35"/>
-  <img src="https://skillicons.dev/icons?i=py&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=django&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=ts&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=nest&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=next&theme=light" height="35"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,dotnet,py,django,fastapi,ts,nest,next,react&theme=light" alt="skills logos" height="40"  />
+  </a>
+</p>
 
 ###
 
@@ -53,23 +48,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=gcp&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=bash&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=grafana&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=prometheus&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=kafka&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=redis&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=mongo&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=nginx&theme=light" height="35"/>
-  <img src="https://skillicons.dev/icons?i=terraform&theme=light" height="35"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash,nginx,terraform,redis,grafana,prometheus,mongo,postgres&theme=light" alt="skills logos" height="40"  />
+  </a>
+</p>
 
 ###
 
@@ -79,7 +62,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,workers,visualstudio,vscode,git,github,githubactions,md,obsidian,twitter,discord,sentry&theme=light" alt="skills logos"  />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,workers,visualstudio,vscode,git,github,githubactions,md,obsidian,twitter,discord,sentry&theme=light" height="40" alt="skills logos"  />
   </a>
 </p>
 
