@@ -36,32 +36,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=go&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=terraform&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=grafana&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=prometheus&theme=light" height="30" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nginx&theme=light" height="30" alt="aws" />
-  <img width="10" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,linux,docker,kubernetes,go,py,ts,dotnet,terraform,grafana,prometheus,nginx,kafka,redis,postgres&theme=light" height="30" alt="logos" />
+  </a>
+</p>
 
 ###
 
@@ -69,10 +48,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,workers,visualstudio,vscode,git,github,githubactions,md,obsidian,twitter,discord,sentry&theme=light" height="30" alt="skills logos"  />
-  <img width="10" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,workers,visualstudio,vscode,git,github,githubactions,md,obsidian,twitter,discord,sentry&theme=light" height="30" alt="skills logos"  />
+  </a>
+</p>
 
 ###
 
