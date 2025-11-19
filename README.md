@@ -37,7 +37,29 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,linux,docker,kubernetes,dotnet,go,bash,py,ts,terraform,grafana,prometheus,kafka,nginx,redis,postgres,mysql&theme=light" height="30" alt="skills logos"  />
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=go&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=grafana&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=prometheus&theme=light" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nginx&theme=light" height="30" alt="aws" />
   <img width="10" />
 </div>
 
