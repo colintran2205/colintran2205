@@ -36,11 +36,15 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/go" height="30" alt="logo"/>
-  <img src="https://cdn.simpleicons.org/gin" height="30" alt="logo"/>
-  <img src="https://cdn.simpleicons.org/python" height="30" alt="logo"/>
-  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="35"/>
+  <img src="https://skillicons.dev/icons?i=py&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=django&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=nest&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=next&theme=light" height="35"/>
 </div>
 
 ###
@@ -49,11 +53,23 @@
 
 ###
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,linux,docker,kubernetes,go,py,ts,dotnet,terraform,grafana,prometheus,nginx,kafka,redis&theme=light" alt="logos" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=gcp&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=bash&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=grafana&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=prometheus&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=kafka&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=redis&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=mongo&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=nginx&theme=light" height="35"/>
+  <img src="https://skillicons.dev/icons?i=terraform&theme=light" height="35"/>
+</div>
 
 ###
 
